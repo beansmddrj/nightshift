@@ -11,8 +11,13 @@ config_version=5
 [application]
 
 config/name="nightshift"
+run/main_scene="uid://cul7wm4qd41hs"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
+
+[dotnet]
+
+project/assembly_name="nightshift"
 
 [physics]
 
