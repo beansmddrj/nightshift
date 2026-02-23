@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://dv7slhb11e2sg"]
+
+[ext_resource type="Script" uid="uid://ce5hfhifrg4si" path="res://scripts/PullScreen.gd" id="1_vvebh"]
+
+[node name="PullScreen" type="Node2D" unique_id=1638880164]
+script = ExtResource("1_vvebh")

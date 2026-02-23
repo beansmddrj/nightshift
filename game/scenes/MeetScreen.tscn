@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://kpu7tsmbysqd"]
+
+[ext_resource type="Script" uid="uid://bipnagpvjpf8h" path="res://scripts/MeetScreen.gd" id="1_17gt7"]
+
+[node name="MeetScreen" type="Node2D" unique_id=1737307889]
+script = ExtResource("1_17gt7")
